@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="278" viewBox="0 0 800 278" role="img" aria-labelledby="title description">
 <title id="title">GioOtto / GitHub activity</title>
-<desc id="description">70 contributions, 2 public pull requests opened, 2 of those merged, and 14 active days, from 2025-10-10 to 2026-10-09. Weekly contributions are on the left; pull request status is on the right.</desc>
+<desc id="description">72 contributions, 2 public pull requests opened, 2 of those merged, and 14 active days, from 2025-10-10 to 2026-10-09. Weekly contributions are on the left; pull request status is on the right.</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-variant-numeric:tabular-nums}</style>
 <rect x=".5" y=".5" width="799" height="277" rx="10" fill="#0d1117" stroke="#21262d"/>
 <text x="28" y="30" font-size="11" fill="#e6edf3" text-anchor="start" class="mono">GioOtto / activity</text>
 <text x="772" y="30" font-size="11" fill="#8b949e" text-anchor="end" class="mono">LAST 12 MONTHS</text>
-<text x="28" y="77" font-size="29" fill="#e6edf3" text-anchor="start" class="mono">70</text>
+<text x="28" y="77" font-size="29" fill="#e6edf3" text-anchor="start" class="mono">72</text>
 <text x="28" y="100" font-size="12" fill="#8b949e" text-anchor="start" class="">Contributions</text>
 <text x="220" y="77" font-size="29" fill="#e6edf3" text-anchor="start" class="mono">2</text>
 <text x="220" y="100" font-size="12" fill="#8b949e" text-anchor="start" class="">Public PRs opened</text>
@@ -72,7 +72,7 @@
 <rect x="535.64" y="210.83" width="8.34" height="19.17" rx="1.5" fill="#3fb950"><title>Week of 2026-09-14: 7 contributions</title></rect>
 <rect x="545.98" y="208.09" width="8.34" height="21.91" rx="1.5" fill="#3fb950"><title>Week of 2026-09-21: 8 contributions</title></rect>
 <rect x="556.32" y="228.00" width="8.34" height="2.00" rx="1.5" fill="#122c20"><title>Week of 2026-09-28: 0 contributions</title></rect>
-<rect x="566.66" y="202.61" width="8.34" height="27.39" rx="1.5" fill="#3fb950"><title>Week of 2026-10-05: 10 contributions</title></rect>
+<rect x="566.66" y="197.13" width="8.34" height="32.87" rx="1.5" fill="#3fb950"><title>Week of 2026-10-05: 12 contributions</title></rect>
 <text x="576" y="158" font-size="10" fill="#8b949e" text-anchor="end" class="mono">peak 23 / wk</text>
 <text x="28" y="251" font-size="10" fill="#8b949e" text-anchor="start" class="mono">Oct 2025</text>
 <text x="576" y="251" font-size="10" fill="#8b949e" text-anchor="end" class="mono">Oct 2026</text>

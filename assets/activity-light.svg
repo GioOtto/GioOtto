@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="278" viewBox="0 0 800 278" role="img" aria-labelledby="title description">
 <title id="title">GioOtto / GitHub activity</title>
-<desc id="description">337 contributions, 2 public pull requests opened, 2 of those merged, and 55 active days, from 2025-10-29 to 2026-10-28. Weekly contributions are on the left; pull request status is on the right.</desc>
+<desc id="description">346 contributions, 2 public pull requests opened, 2 of those merged, and 56 active days, from 2025-10-30 to 2026-10-29. Weekly contributions are on the left; pull request status is on the right.</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-variant-numeric:tabular-nums}</style>
 <rect x=".5" y=".5" width="799" height="277" rx="10" fill="#ffffff" stroke="#d8dee4"/>
 <text x="28" y="30" font-size="11" fill="#1f2328" text-anchor="start" class="mono">GioOtto / activity</text>
 <text x="772" y="30" font-size="11" fill="#656d76" text-anchor="end" class="mono">LAST 12 MONTHS</text>
-<text x="28" y="77" font-size="29" fill="#1f2328" text-anchor="start" class="mono">337</text>
+<text x="28" y="77" font-size="29" fill="#1f2328" text-anchor="start" class="mono">346</text>
 <text x="28" y="100" font-size="12" fill="#656d76" text-anchor="start" class="">Contributions</text>
 <text x="220" y="77" font-size="29" fill="#1f2328" text-anchor="start" class="mono">2</text>
 <text x="220" y="100" font-size="12" fill="#656d76" text-anchor="start" class="">Public PRs opened</text>
 <text x="412" y="77" font-size="29" fill="#1f2328" text-anchor="start" class="mono">2</text>
 <text x="412" y="100" font-size="12" fill="#656d76" text-anchor="start" class="">Of those, merged</text>
-<text x="604" y="77" font-size="29" fill="#1f2328" text-anchor="start" class="mono">55</text>
+<text x="604" y="77" font-size="29" fill="#1f2328" text-anchor="start" class="mono">56</text>
 <text x="604" y="100" font-size="12" fill="#656d76" text-anchor="start" class="">Active days</text>
 <line x1="28" y1="119" x2="772" y2="119" stroke="#d8dee4"/>
 <text x="28" y="145" font-size="12" fill="#656d76" text-anchor="start" class="">Contributions / week</text>
@@ -72,7 +72,7 @@
 <rect x="535.64" y="197.51" width="8.34" height="32.49" rx="1.5" fill="#1a7f37"><title>Week of 2026-10-05: 49 contributions</title></rect>
 <rect x="545.98" y="219.39" width="8.34" height="10.61" rx="1.5" fill="#1a7f37"><title>Week of 2026-10-12: 16 contributions</title></rect>
 <rect x="556.32" y="226.02" width="8.34" height="3.98" rx="1.5" fill="#1a7f37"><title>Week of 2026-10-19: 6 contributions</title></rect>
-<rect x="566.66" y="224.69" width="8.34" height="5.31" rx="1.5" fill="#1a7f37"><title>Week of 2026-10-26: 8 contributions</title></rect>
+<rect x="566.66" y="218.73" width="8.34" height="11.27" rx="1.5" fill="#1a7f37"><title>Week of 2026-10-26: 17 contributions</title></rect>
 <text x="576" y="158" font-size="10" fill="#656d76" text-anchor="end" class="mono">peak 95 / wk</text>
 <text x="28" y="251" font-size="10" fill="#656d76" text-anchor="start" class="mono">Oct 2025</text>
 <text x="576" y="251" font-size="10" fill="#656d76" text-anchor="end" class="mono">Oct 2026</text>
